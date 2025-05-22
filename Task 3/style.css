@@ -1,0 +1,10 @@
+.carousel {
+  text-align: center;
+  margin-top: 50px;
+}
+
+@media (max-width: 978px) {
+  img {
+    width: 90%;
+  }
+}
